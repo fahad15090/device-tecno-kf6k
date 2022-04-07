@@ -18,5 +18,5 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 PRODUCT_DEVICE := KF6k
 PRODUCT_NAME := twrp_KF6k
 PRODUCT_BRAND := TECNO
-PRODUCT_MODEL := TECNO KF6k
+PRODUCT_MODEL := KF6k
 PRODUCT_MANUFACTURER := tecno
